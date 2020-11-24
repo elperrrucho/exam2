@@ -1,0 +1,6 @@
+
+
+#Edgar Alejandro Garcia Camino
+
+#!/bin/bash
+echo "trop facile"
